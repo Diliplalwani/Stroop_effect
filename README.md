@@ -1,4 +1,4 @@
-# Stroop_effect
+# Stroop_effect_R_program
 
 
 > stroop=read.csv('stroop.csv')
